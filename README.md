@@ -1,3 +1,2 @@
-# helloworld
-First Git
-Commit changes
+# Initial page
+
